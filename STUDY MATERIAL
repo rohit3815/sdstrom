@@ -19,4 +19,12 @@ git log
 ------------------
 trivy commands-
 sudo apt install trivy
+trivy--version
+sudo trivy image python:3.4-alpine
+sudo trivy image --severity python:3.4-alpine
+ls
+git clone https://github.com/aquasecurity/trivy-ci-test.git
+ls
+open trivy-ci-test
+trivy fs trivy-ci-test
 
