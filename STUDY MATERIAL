@@ -16,3 +16,7 @@ git checkout -b a
 git checkout main
 git show
 git log
+------------------
+trivy commands-
+sudo apt install trivy
+
