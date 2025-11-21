@@ -1,0 +1,18 @@
+wget http://downloads.sourceforcege.net/project/pentbox18realised/pentbox-1.8tar.gz
+cd pentbox-1.8
+./pentbox.rb
+sudo apt install ruby
+---------------
+git commands-
+git clone link
+git init
+git pull
+ls -l
+git status
+git log --graph
+git branch
+git add
+git checkout -b a
+git checkout main
+git show
+git log
